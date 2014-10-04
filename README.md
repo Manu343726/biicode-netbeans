@@ -1,7 +1,7 @@
 biicode-netbeans
 ================
 
-Scripts and instructions for easy interoperability between [biicode](www.biicode.com) and the netbeans IDE.
+Scripts and instructions for easy interoperability between [biicode](http://www.biicode.com) and the netbeans IDE.
 
 
 Why not just a gist?
